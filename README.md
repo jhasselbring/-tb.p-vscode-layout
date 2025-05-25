@@ -103,7 +103,7 @@ Make sure you have these packages installed in your project:
 
 ## Author
 
-[Your Name/Organization]
+JHasselbring
 
 ## License
 
