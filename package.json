@@ -1,0 +1,17 @@
+{
+    "name": "@tb.p/vscode-layout",
+    "version": "1.0.0",
+    "description": "A reusable layout component using React, styled-components, and react-resizable-panels",
+    "main": "src/index.js",
+    "keywords": ["react", "layout", "component", "resizable", "styled-components"],
+    "author": "JHasselbring",
+    "license": "MIT",
+    "peerDependencies": {
+      "react": "^18.0.0",
+      "react-dom": "^18.0.0",
+      "react-router-dom": "^6.0.0",
+      "styled-components": "^5.3.0",
+      "react-resizable-panels": "^1.0.0"
+    }
+  }
+  
